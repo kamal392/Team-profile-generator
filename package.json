@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "name": "team-profile-generator",
+  "description": "Cool Employees",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamal392/Team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamal392/Team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/kamal392/Team-profile-generator#readme"
+}
