@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/kamal392/Team-profile-generator/issues"
   },
-  "homepage": "https://github.com/kamal392/Team-profile-generator#readme"
+  "homepage": "https://github.com/kamal392/Team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
